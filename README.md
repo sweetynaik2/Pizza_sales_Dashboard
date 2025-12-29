@@ -48,3 +48,6 @@ periods
 Add customer-level analysis
 Include profit & cost metrics
 Forecast sales using historical trends
+
+Screenshot-
+https://github.com/sweetynaik2/Pizza_sales_Dashboard/blob/main/Dashboard_image.png
