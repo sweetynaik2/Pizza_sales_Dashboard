@@ -50,4 +50,4 @@ Include profit & cost metrics
 Forecast sales using historical trends
 
 Screenshot-
-(https://github.com/sweetynaik2/Pizza_sales_Dashboard/blob/main/Dashboard_image.png)
+page2- (https://github.com/sweetynaik2/Pizza_sales_Dashboard/blob/main/Dashboard_page2%20(1).png)
